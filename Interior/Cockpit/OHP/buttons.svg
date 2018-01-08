@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="184.80014"
-     inkscape:cy="47.134873"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="447.19573"
+     inkscape:cy="-14.483421"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -39,7 +39,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="30.091728,-8.126036"
+       position="30.003907,29.964758"
        orientation="1,0"
        id="guide4246" />
     <sodipodi:guide
@@ -47,19 +47,19 @@
        orientation="0,1"
        id="guide4256" />
     <sodipodi:guide
-       position="60.183456,-2.7933249"
+       position="60.000001,29.964758"
        orientation="1,0"
        id="guide4258" />
     <sodipodi:guide
-       position="90.01654,38.100753"
+       position="90.003908,29.964758"
        orientation="1,0"
        id="guide4391" />
     <sodipodi:guide
-       position="119.94724,46.506487"
+       position="120,29.964758"
        orientation="1,0"
        id="guide4393" />
     <sodipodi:guide
-       position="150.07773,62.214963"
+       position="150,29.964758"
        orientation="1,0"
        id="guide4395" />
     <sodipodi:guide
@@ -95,7 +95,7 @@
        orientation="1,0"
        id="guide4611" />
     <sodipodi:guide
-       position="210.00391,60.792967"
+       position="210,29.964758"
        orientation="1,0"
        id="guide4615" />
     <sodipodi:guide
@@ -111,7 +111,7 @@
        orientation="1,0"
        id="guide4725" />
     <sodipodi:guide
-       position="300.0625,2.3749999"
+       position="300,29.964758"
        orientation="1,0"
        id="guide4769" />
     <sodipodi:guide
@@ -127,11 +127,11 @@
        orientation="1,0"
        id="guide4775" />
     <sodipodi:guide
-       position="330,46.999999"
+       position="330.00001,29.964758"
        orientation="1,0"
        id="guide4777" />
     <sodipodi:guide
-       position="315,44.624999"
+       position="315.00391,29.964758"
        orientation="1,0"
        id="guide4779" />
     <sodipodi:guide
@@ -150,6 +150,98 @@
        position="-7.7500001,0"
        orientation="0,1"
        id="guide4897" />
+    <sodipodi:guide
+       position="345.00391,29.964758"
+       orientation="1,0"
+       id="guide6420" />
+    <sodipodi:guide
+       position="360.00391,29.964758"
+       orientation="1,0"
+       id="guide6422" />
+    <sodipodi:guide
+       position="32.372233,21.2353"
+       orientation="0,1"
+       id="guide6539" />
+    <sodipodi:guide
+       position="375.00001,29.964758"
+       orientation="1,0"
+       id="guide6594" />
+    <sodipodi:guide
+       position="390.01359,29.964758"
+       orientation="1,0"
+       id="guide6596" />
+    <sodipodi:guide
+       position="405.00392,29.964758"
+       orientation="1,0"
+       id="guide6598" />
+    <sodipodi:guide
+       position="420.00392,29.964758"
+       orientation="1,0"
+       id="guide6600" />
+    <sodipodi:guide
+       position="435.00392,29.964758"
+       orientation="1,0"
+       id="guide6644" />
+    <sodipodi:guide
+       position="450.00001,29.964758"
+       orientation="1,0"
+       id="guide6646" />
+    <sodipodi:guide
+       position="465.00391,29.964758"
+       orientation="1,0"
+       id="guide4232" />
+    <sodipodi:guide
+       position="480.00391,29.964758"
+       orientation="1,0"
+       id="guide4234" />
+    <sodipodi:guide
+       position="495.00391,29.964758"
+       orientation="1,0"
+       id="guide4235" />
+    <sodipodi:guide
+       position="510.00001,29.964758"
+       orientation="1,0"
+       id="guide4237" />
+    <sodipodi:guide
+       position="525.00001,29.964758"
+       orientation="1,0"
+       id="guide4373" />
+    <sodipodi:guide
+       position="540.00001,29.964758"
+       orientation="1,0"
+       id="guide4375" />
+    <sodipodi:guide
+       position="555.00001,29.964758"
+       orientation="1,0"
+       id="guide4269" />
+    <sodipodi:guide
+       position="570.00001,29.964758"
+       orientation="1,0"
+       id="guide4271" />
+    <sodipodi:guide
+       position="585.00001,29.964758"
+       orientation="1,0"
+       id="guide4273" />
+    <sodipodi:guide
+       position="600.00001,29.964758"
+       orientation="1,0"
+       id="guide4275" />
+    <sodipodi:guide
+       position="615.00001,29.964758"
+       orientation="1,0"
+       id="guide4277" />
+    <sodipodi:guide
+       position="629.9961,29.964758"
+       orientation="1,0"
+       id="guide4279" />
+    <sodipodi:guide
+       position="645.00001,29.964758"
+       orientation="1,0"
+       id="guide4324" />
+    <sodipodi:guide
+       position="660.00001,29.964758"
+       orientation="1,0"
+       id="guide4326" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -159,42 +251,291 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g4781"
-     transform="translate(-179.91671,-1.2646644)"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27">
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path4221-9-5"
-       d="m 204.91424,334.36024 -19.77855,0"
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4221-9-5-3"
-       d="m 194.97829,340.24984 0,9.31913"
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 37.0001,332.27936 0,15.03711"
+     d="m 84.993624,333.09558 -19.77855,0"
+     id="path4221-9-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 24.917792,333.10774 -19.7785495,0"
+     id="path4221-9-5-2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 44.981841,338.99735 0,9.31913"
+     id="path4221-9-5-3-7-7"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 126.99629,332.27936 0,15.03711"
      id="path4221"
      inkscape:connector-curvature="0"
      inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27" />
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 172.99628,332.27936 0,15.03711"
+     id="path4221-9"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4223-9-4-74-4"
+     width="17.865799"
+     height="7.0734096"
+     x="426.06577"
+     y="335.59219"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="434.99496"
+     y="341.40469"
+     id="text4211-0-5-1-3"
+     sodipodi:linespacing="100%"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="434.99496"
+       y="341.40469"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+       id="tspan4217-0-3-9-7">MAN</tspan></text>
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4223-9-4-74-4-1"
+     width="17.865799"
+     height="7.0734096"
+     x="396.0842"
+     y="335.5961"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="405.0134"
+     y="341.4086"
+     id="text4211-0-5-1-3-3"
+     sodipodi:linespacing="100%"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="405.0134"
+       y="341.4086"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+       id="tspan4217-0-3-9-7-8">EXT</tspan></text>
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4223-9-4-74-4-1-0"
+     width="17.865799"
+     height="7.0734096"
+     x="516.06342"
+     y="335.59546"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="524.99261"
+     y="341.40796"
+     id="text4211-0-5-1-3-3-9"
+     sodipodi:linespacing="100%"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="524.99261"
+       y="341.40796"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1"
+       id="tspan4217-0-3-9-7-8-7">HIGH</tspan></text>
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4223-9-4-9"
+     width="17.865799"
+     height="7.0734096"
+     x="366.05939"
+     y="335.59924"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="374.98859"
+     y="341.41174"
+     id="text4211-0-5-9"
+     sodipodi:linespacing="100%"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="374.98859"
+       y="341.41174"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+       id="tspan4217-0-3-3">OFF</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="345.01077"
+     y="341.42667"
+     id="text4211-0-5-6-3"
+     sodipodi:linespacing="100%"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="345.01077"
+       y="341.42667"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+       id="tspan4217-0-3-7-6">ON</tspan></text>
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4223-9-4-7-8-7"
+     width="17.865799"
+     height="7.0734096"
+     x="336.07578"
+     y="335.58948"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4223-9-4-74-4-5"
+     width="17.865799"
+     height="7.0734096"
+     x="456.06329"
+     y="335.59869"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="464.99249"
+     y="341.41119"
+     id="text4211-0-5-1-3-35"
+     sodipodi:linespacing="100%"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="464.99249"
+       y="341.41119"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+       id="tspan4217-0-3-9-7-6">TEST</tspan></text>
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4223-9-4-74-4-5-2"
+     width="17.865799"
+     height="7.0734096"
+     x="486.07141"
+     y="335.60046"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="495.00061"
+     y="341.41296"
+     id="text4211-0-5-1-3-35-9"
+     sodipodi:linespacing="100%"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="495.00061"
+       y="341.41296"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+       id="tspan4217-0-3-9-7-6-1">CALL</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="255.96909"
+     y="345.44269"
+     id="text4211-0-5-6"
+     sodipodi:linespacing="100%"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="255.96909"
+       y="345.44269"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+       id="tspan4217-0-3-7">ON</tspan></text>
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4223-9-4-7-8"
+     width="17.865799"
+     height="7.0734096"
+     x="247.03406"
+     y="339.6055"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4223-9-4"
+     width="17.865799"
+     height="7.0734096"
+     x="276.05191"
+     y="339.62039"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="284.98114"
+     y="345.43289"
+     id="text4211-0-5"
+     sodipodi:linespacing="100%"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="284.98114"
+       y="345.43289"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+       id="tspan4217-0-3">OFF</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 105.05767,338.98518 0,9.31913"
+     id="path4221-9-5-3"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
   <g
      id="g4519"
-     transform="translate(29.245289,0.02588834)"
+     transform="translate(209.24148,0.0259028)"
      inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27">
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839">
     <text
        sodipodi:linespacing="100%"
        id="text4211"
@@ -225,120 +566,12 @@
        id="rect4223"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 83.0001,332.27936 0,15.03711"
-     id="path4221-9"
-     inkscape:connector-curvature="0"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27" />
-  <rect
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4223-9-4"
-     width="17.865799"
-     height="7.0734096"
-     x="156.05963"
-     y="339.62039"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="164.98885"
-     y="345.43289"
-     id="text4211-0-5"
-     sodipodi:linespacing="100%"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
-       sodipodi:role="line"
-       x="164.98885"
-       y="345.43289"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-       id="tspan4217-0-3">OFF</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="164.99544"
-     y="335.36804"
-     id="text4211-0-7"
-     sodipodi:linespacing="100%"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
-       sodipodi:role="line"
-       x="164.99544"
-       y="335.36804"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ff7f00;fill-opacity:1"
-       id="tspan4217-0-6">FAIL</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="135.97681"
-     y="345.44269"
-     id="text4211-0-5-6"
-     sodipodi:linespacing="100%"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
-       sodipodi:role="line"
-       x="135.97681"
-       y="345.44269"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-       id="tspan4217-0-3-7">ON</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="135.98126"
-     y="335.36514"
-     id="text4211-0-7-6"
-     sodipodi:linespacing="100%"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
-       sodipodi:role="line"
-       x="135.98126"
-       y="335.36514"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ff7f00;fill-opacity:1"
-       id="tspan4217-0-6-0">FAIL</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="105.99153"
-     y="345.42087"
-     id="text4211-0-5-6-5"
-     sodipodi:linespacing="100%"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
-       sodipodi:role="line"
-       x="105.99153"
-       y="345.42087"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-       id="tspan4217-0-3-7-9">ON</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="106.03141"
-     y="335.306"
-     id="text4211-0-7-6-7"
-     sodipodi:linespacing="100%"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
-       sodipodi:role="line"
-       x="106.03141"
-       y="335.306"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1"
-       id="tspan4217-0-6-0-8">AVAIL</tspan></text>
   <g
-     transform="translate(50.715719,0.0444439)"
+     transform="translate(170.7119,0.04445836)"
      id="g4519-3"
      inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27">
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839">
     <text
        sodipodi:linespacing="100%"
        id="text4211-8"
@@ -369,164 +602,89 @@
        id="rect4223-3"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
-  <rect
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4223-9-4-7"
-     width="17.865799"
-     height="7.0734096"
-     x="97.052734"
-     y="339.5907"
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="615.97351"
+     y="335.36514"
+     id="text4211-0-7-6-6"
+     sodipodi:linespacing="100%"
      inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27" />
-  <rect
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4223-9-4-7-8"
-     width="17.865799"
-     height="7.0734096"
-     x="127.04178"
-     y="339.6055"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="615.97351"
+       y="335.36514"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ff7f00;fill-opacity:1"
+       id="tspan4217-0-6-0-7">FAIL</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="586.02368"
+     y="335.306"
+     id="text4211-0-7-6-7-5"
+     sodipodi:linespacing="100%"
      inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27" />
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="586.02368"
+       y="335.306"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1"
+       id="tspan4217-0-6-0-8-3">READY</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="556.02368"
+     y="335.306"
+     id="text4211-0-7-6-7"
+     sodipodi:linespacing="100%"
+     inkscape:export-filename="/home/overbeck/g4781.png"
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
+       sodipodi:role="line"
+       x="556.02368"
+       y="335.306"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1"
+       id="tspan4217-0-6-0-8">AVAIL</tspan></text>
   <rect
      style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4223-9-4-74"
      width="17.865799"
      height="7.0734096"
-     x="186.07675"
+     x="306.06903"
      y="339.59464"
      inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27" />
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="195.00597"
+     x="314.99826"
      y="345.40714"
      id="text4211-0-5-1"
      sodipodi:linespacing="100%"
      inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
        sodipodi:role="line"
-       x="195.00597"
+       x="314.99826"
        y="345.40714"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
        id="tspan4217-0-3-9">MAN</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="195.01256"
-     y="335.34229"
-     id="text4211-0-7-0"
+     x="644.99829"
+     y="345.40714"
+     id="text4211-0-5-1-9"
      sodipodi:linespacing="100%"
      inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
+     inkscape:export-xdpi="180.19839"
+     inkscape:export-ydpi="180.19839"><tspan
        sodipodi:role="line"
-       x="195.01256"
-       y="335.34229"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ff7f00;fill-opacity:1"
-       id="tspan4217-0-6-9">FAIL</tspan></text>
-  <rect
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4223-9-4-74-4"
-     width="17.865799"
-     height="7.0734096"
-     x="216.1001"
-     y="335.60712"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="225.02931"
-     y="341.41962"
-     id="text4211-0-5-1-3"
-     sodipodi:linespacing="100%"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
-       sodipodi:role="line"
-       x="225.02931"
-       y="341.41962"
+       x="644.99829"
+       y="345.40714"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-       id="tspan4217-0-3-9-7">MAN</tspan></text>
-  <rect
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4223-9-4-74-4-1"
-     width="17.865799"
-     height="7.0734096"
-     x="246.08801"
-     y="335.5961"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="255.01723"
-     y="341.4086"
-     id="text4211-0-5-1-3-3"
-     sodipodi:linespacing="100%"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
-       sodipodi:role="line"
-       x="255.01723"
-       y="341.4086"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-       id="tspan4217-0-3-9-7-8">EXT</tspan></text>
-  <rect
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4223-9-4-74-4-1-0"
-     width="17.865799"
-     height="7.0734096"
-     x="306.05365"
-     y="335.64133"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="314.98285"
-     y="341.45383"
-     id="text4211-0-5-1-3-3-9"
-     sodipodi:linespacing="100%"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
-       sodipodi:role="line"
-       x="314.98285"
-       y="341.45383"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1"
-       id="tspan4217-0-3-9-7-8-7">HIGH</tspan></text>
-  <rect
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4223-9-4-9"
-     width="17.865799"
-     height="7.0734096"
-     x="276.07861"
-     y="335.60382"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="285.00781"
-     y="341.41632"
-     id="text4211-0-5-9"
-     sodipodi:linespacing="100%"
-     inkscape:export-filename="/home/overbeck/g4781.png"
-     inkscape:export-xdpi="1000.27"
-     inkscape:export-ydpi="1000.27"><tspan
-       sodipodi:role="line"
-       x="285.00781"
-       y="341.41632"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-       id="tspan4217-0-3-3">OFF</tspan></text>
+       id="tspan4217-0-3-9-1">START</tspan></text>
 </svg>
